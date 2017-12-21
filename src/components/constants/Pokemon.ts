@@ -1,4 +1,4 @@
-import { IMove } from "battlemovr/lib/Actors";
+import { IMove } from "battlemovr/src/Actors";
 import { IPokemonStatistics } from "../Battles";
 
 /**

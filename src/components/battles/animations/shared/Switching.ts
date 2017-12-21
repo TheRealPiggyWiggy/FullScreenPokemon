@@ -1,6 +1,6 @@
-import { ISwitchAction } from "battlemovr/lib/Actions";
-import { ISwitchingAnimations } from "battlemovr/lib/Animations";
-import { ITeamAndAction, Team } from "battlemovr/lib/Teams";
+import { ISwitchAction } from "battlemovr/src/Actions";
+import { ISwitchingAnimations } from "battlemovr/src/Animations";
+import { ITeamAndAction, Team } from "battlemovr/src/Teams";
 import { Component } from "eightbittr";
 
 import { FullScreenPokemon } from "../../../../FullScreenPokemon";

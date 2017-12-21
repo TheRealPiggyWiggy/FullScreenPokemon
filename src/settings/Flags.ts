@@ -1,4 +1,4 @@
-import { IFlagSwapprSettings } from "flagswappr/lib/IFlagSwappr";
+import { IFlagSwapprSettings } from "flagswappr/src/IFlagSwappr";
 
 import { FullScreenPokemon } from "../FullScreenPokemon";
 

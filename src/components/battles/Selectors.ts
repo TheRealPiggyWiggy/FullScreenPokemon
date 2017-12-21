@@ -1,4 +1,4 @@
-import { ISelector, ISelectorFactory } from "battlemovr/lib/Selectors";
+import { ISelector, ISelectorFactory } from "battlemovr/src/Selectors";
 import { Component } from "eightbittr";
 
 import { FullScreenPokemon } from "../../FullScreenPokemon";

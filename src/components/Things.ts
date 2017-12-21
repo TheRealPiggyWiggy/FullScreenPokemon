@@ -1,6 +1,6 @@
 import { IThing as IGameStartrThing, Things as GameStartrThings } from "gamestartr";
-import * as imenugraphr from "menugraphr/lib/IMenuGraphr";
-import * as itimehandlr from "timehandlr/lib/ITimeHandlr";
+import * as imenugraphr from "menugraphr/src/IMenuGraphr";
+import * as itimehandlr from "timehandlr/src/ITimeHandlr";
 
 import { FullScreenPokemon } from "../FullScreenPokemon";
 import { IWalkingInstructions } from "./actions/Walking";

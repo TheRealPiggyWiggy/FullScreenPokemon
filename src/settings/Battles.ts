@@ -1,6 +1,6 @@
-import { IAction } from "battlemovr/lib/Actions";
-import { IBattleMovrSettings } from "battlemovr/lib/IBattleMovr";
-import { ITeamAndAction, IUnderEachTeam } from "battlemovr/lib/Teams";
+import { IAction } from "battlemovr/src/Actions";
+import { IBattleMovrSettings } from "battlemovr/src/IBattleMovr";
+import { ITeamAndAction, IUnderEachTeam } from "battlemovr/src/Teams";
 import * as igamestartr from "gamestartr";
 
 import { IBattleInfo } from "../components/Battles";

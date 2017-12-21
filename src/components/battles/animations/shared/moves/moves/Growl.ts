@@ -1,4 +1,4 @@
-import { Team } from "battlemovr/lib/Teams";
+import { Team } from "battlemovr/src/Teams";
 
 import { FullScreenPokemon } from "../../../../../../FullScreenPokemon";
 import { IThing } from "../../../../../Things";

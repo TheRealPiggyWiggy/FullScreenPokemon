@@ -1,5 +1,5 @@
 import { Component } from "eightbittr";
-import { IItems } from "itemsholdr/lib/IItemsHoldr";
+import { IItems } from "itemsholdr/src/IItemsHoldr";
 
 import { FullScreenPokemon } from "../FullScreenPokemon";
 import { PokedexListingStatus } from "./Constants";

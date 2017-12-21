@@ -1,5 +1,5 @@
 import { Component } from "eightbittr";
-import * as imenugraphr from "menugraphr/lib/IMenuGraphr";
+import * as imenugraphr from "menugraphr/src/IMenuGraphr";
 
 import { FullScreenPokemon } from "../FullScreenPokemon";
 import { IPokedexInformation, IPokemonListing } from "./constants/Pokemon";

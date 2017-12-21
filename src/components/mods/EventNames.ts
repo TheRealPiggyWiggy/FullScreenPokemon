@@ -1,4 +1,4 @@
-import { EventNames as ModAttachrEventNames } from "modattachr/lib/EventNames";
+import { EventNames as ModAttachrEventNames } from "modattachr/src/EventNames";
 
 /**
  * Keys for mod events.

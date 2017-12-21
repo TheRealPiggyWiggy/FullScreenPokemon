@@ -1,5 +1,5 @@
-import { IStatistic } from "battlemovr/lib/Actors";
-import { Team } from "battlemovr/lib/Teams";
+import { IStatistic } from "battlemovr/src/Actors";
+import { Team } from "battlemovr/src/Teams";
 import { Component } from "eightbittr";
 
 import { FullScreenPokemon } from "../../../FullScreenPokemon";

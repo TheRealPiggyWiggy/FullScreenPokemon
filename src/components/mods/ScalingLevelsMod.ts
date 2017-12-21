@@ -1,4 +1,4 @@
-import { ICallbackRegister, IMod } from "modattachr/lib/IModAttachr";
+import { ICallbackRegister, IMod } from "modattachr/src/IModAttachr";
 
 // import { IPokemon } from "../../components/Battles";
 // import { IPokemonListing } from "../../components/constants/Pokemon";

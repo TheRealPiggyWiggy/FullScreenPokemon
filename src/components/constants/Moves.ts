@@ -1,4 +1,4 @@
-import { EffectTarget, IMoveEffect } from "battlemovr/lib/Effects";
+import { EffectTarget, IMoveEffect } from "battlemovr/src/Effects";
 
 import { Actions } from "../../components/Actions";
 import { IPokemon } from "../../components/Battles";

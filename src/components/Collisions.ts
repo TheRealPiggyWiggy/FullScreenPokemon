@@ -1,5 +1,5 @@
 import { Component } from "eightbittr";
-import { IMenuDialogRaw } from "menugraphr/lib/IMenuGraphr";
+import { IMenuDialogRaw } from "menugraphr/src/IMenuGraphr";
 
 import { FullScreenPokemon } from "../FullScreenPokemon";
 import { Direction } from "./Constants";

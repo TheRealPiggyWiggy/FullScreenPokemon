@@ -1,5 +1,5 @@
-import { ITeamAnimations } from "battlemovr/lib/Animations";
-import { Team } from "battlemovr/lib/Teams";
+import { ITeamAnimations } from "battlemovr/src/Animations";
+import { Team } from "battlemovr/src/Teams";
 import { Component } from "eightbittr";
 
 import { FullScreenPokemon } from "../../../FullScreenPokemon";

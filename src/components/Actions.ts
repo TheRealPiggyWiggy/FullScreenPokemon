@@ -1,6 +1,6 @@
 import { Component } from "eightbittr";
-import { IMenuDialogRaw } from "menugraphr/lib/IMenuGraphr";
-import { ITimeEvent } from "timehandlr/lib/ITimeHandlr";
+import { IMenuDialogRaw } from "menugraphr/src/IMenuGraphr";
+import { ITimeEvent } from "timehandlr/src/ITimeHandlr";
 
 import { FullScreenPokemon } from "../FullScreenPokemon";
 import { Following } from "./actions/Following";

@@ -1,6 +1,6 @@
 import { stub } from "sinon";
 
-import { FullScreenPokemon, IFullScreenPokemonSettings } from "../../src/FullScreenPokemon";
+import { FullScreenPokemon, IFullScreenPokemonSettings } from "./FullScreenPokemon";
 
 /**
  * Creates a stubbed instance of the FullScreenPokemon class.

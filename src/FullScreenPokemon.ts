@@ -1,16 +1,16 @@
-import { BattleMovr } from "battlemovr/lib/BattleMovr";
-import { IBattleMovr } from "battlemovr/lib/IBattleMovr";
-import { FlagSwappr } from "flagswappr/lib/FlagSwappr";
-import { IFlagSwappr } from "flagswappr/lib/IFlagSwappr";
+import { BattleMovr } from "battlemovr/src/BattleMovr";
+import { IBattleMovr } from "battlemovr/src/IBattleMovr";
+import { FlagSwappr } from "flagswappr/src/FlagSwappr";
+import { IFlagSwappr } from "flagswappr/src/IFlagSwappr";
 import { GameStartr, IGameStartrSettings } from "gamestartr";
-import { IMenuGraphr } from "menugraphr/lib/IMenuGraphr";
-import { MenuGraphr } from "menugraphr/lib/MenuGraphr";
-import { IScenePlayr } from "sceneplayr/lib/IScenePlayr";
-import { ScenePlayr } from "sceneplayr/lib/ScenePlayr";
-import { IStateHoldr } from "stateholdr/lib/IStateHoldr";
-import { StateHoldr } from "stateholdr/lib/StateHoldr";
-import { IUserWrappr } from "userwrappr/lib/IUserWrappr";
-import { UserWrappr } from "userwrappr/lib/UserWrappr";
+import { IMenuGraphr } from "menugraphr/src/IMenuGraphr";
+import { MenuGraphr } from "menugraphr/src/MenuGraphr";
+import { IScenePlayr } from "sceneplayr/src/IScenePlayr";
+import { ScenePlayr } from "sceneplayr/src/ScenePlayr";
+import { IStateHoldr } from "stateholdr/src/IStateHoldr";
+import { StateHoldr } from "stateholdr/src/StateHoldr";
+import { IUserWrappr } from "userwrappr/src/IUserWrappr";
+import { UserWrappr } from "userwrappr/src/UserWrappr";
 
 import { Actions } from "./components/Actions";
 import { Battles } from "./components/Battles";

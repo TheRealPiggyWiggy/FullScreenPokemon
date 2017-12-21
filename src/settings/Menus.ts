@@ -1,5 +1,5 @@
 import * as igamestartr from "gamestartr";
-import * as imenugraphr from "menugraphr/lib/IMenuGraphr";
+import * as imenugraphr from "menugraphr/src/IMenuGraphr";
 
 import { IPokedexInformation, IPokedexListing } from "../components/constants/Pokemon";
 import { IDialog, IMenuBase, IMenuSchema } from "../components/Menus";

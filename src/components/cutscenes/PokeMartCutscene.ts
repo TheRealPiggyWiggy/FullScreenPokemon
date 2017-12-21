@@ -1,5 +1,5 @@
 import { Component } from "eightbittr";
-import { IMenuWordSchema } from "menugraphr/lib/IMenuGraphr";
+import { IMenuWordSchema } from "menugraphr/src/IMenuGraphr";
 
 import { FullScreenPokemon } from "../../FullScreenPokemon";
 

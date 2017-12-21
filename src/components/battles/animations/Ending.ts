@@ -1,5 +1,5 @@
-import { BattleOutcome } from "battlemovr/lib/Animations";
-import { Queue } from "battlemovr/lib/animators/Queue";
+import { BattleOutcome } from "battlemovr/src/Animations";
+import { Queue } from "battlemovr/src/animators/Queue";
 import { Component } from "eightbittr";
 
 import { FullScreenPokemon } from "../../../FullScreenPokemon";

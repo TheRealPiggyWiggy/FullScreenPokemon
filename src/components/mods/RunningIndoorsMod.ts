@@ -1,4 +1,4 @@
-import { ICallbackRegister, IMod } from "modattachr/lib/IModAttachr";
+import { ICallbackRegister, IMod } from "modattachr/src/IModAttachr";
 
 import { IArea } from "../../components/Maps";
 import { FullScreenPokemon } from "../../FullScreenPokemon";

@@ -1,7 +1,7 @@
 import { Maps as GameStartrMaps } from "gamestartr";
-import * as imapscreatr from "mapscreatr/lib/IMapsCreatr";
-import { IPreThing as IMapsCreatrPreThing } from "mapscreatr/lib/IPreThing";
-import { IMapScreenr } from "mapscreenr/lib/IMapScreenr";
+import * as imapscreatr from "mapscreatr/src/IMapsCreatr";
+import { IPreThing as IMapsCreatrPreThing } from "mapscreatr/src/IPreThing";
+import { IMapScreenr } from "mapscreenr/src/IMapScreenr";
 
 import { FullScreenPokemon } from "../FullScreenPokemon";
 import { Direction } from "./Constants";

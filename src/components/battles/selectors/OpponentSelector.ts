@@ -1,6 +1,6 @@
-import { BattleOutcome } from "battlemovr/lib/Animations";
-import { IOnChoice, ISelector } from "battlemovr/lib/Selectors";
-import { Team } from "battlemovr/lib/Teams";
+import { BattleOutcome } from "battlemovr/src/Animations";
+import { IOnChoice, ISelector } from "battlemovr/src/Selectors";
+import { Team } from "battlemovr/src/Teams";
 import { Component } from "eightbittr";
 
 import { FullScreenPokemon } from "../../../FullScreenPokemon";

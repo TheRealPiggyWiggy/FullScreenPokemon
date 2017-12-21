@@ -1,6 +1,6 @@
 import { Component } from "eightbittr";
-import { IPipe } from "inputwritr/lib/IInputWritr";
-import { IMod } from "modattachr/lib/IModAttachr";
+import { IPipe } from "inputwritr/src/IInputWritr";
+import { IMod } from "modattachr/src/IModAttachr";
 import {
     IAbsoluteSizeSchema, IBooleanSchema, IMultiSelectSchema, IRelativeSizeSchema, IUserWrapprSettings, OptionType
 } from "userwrappr";

@@ -1,6 +1,6 @@
-import { ISwitchAction } from "battlemovr/lib/Actions";
-import { IOnChoice } from "battlemovr/lib/Selectors";
-import { Team } from "battlemovr/lib/Teams";
+import { ISwitchAction } from "battlemovr/src/Actions";
+import { IOnChoice } from "battlemovr/src/Selectors";
+import { Team } from "battlemovr/src/Teams";
 import { Component } from "eightbittr";
 
 import { FullScreenPokemon } from "../../../../FullScreenPokemon";

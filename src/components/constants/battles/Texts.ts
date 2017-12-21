@@ -1,5 +1,5 @@
-import { IUnderEachTeam } from "battlemovr/lib/Teams";
-import { IMenuDialogRaw } from "menugraphr/lib/IMenuGraphr";
+import { IUnderEachTeam } from "battlemovr/src/Teams";
+import { IMenuDialogRaw } from "menugraphr/src/IMenuGraphr";
 
 import { IBattleTeam } from "../../Battles";
 

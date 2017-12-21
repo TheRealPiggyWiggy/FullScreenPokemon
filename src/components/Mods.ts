@@ -1,5 +1,5 @@
 import { Component } from "eightbittr";
-import { IMod } from "modattachr/lib/IModAttachr";
+import { IMod } from "modattachr/src/IModAttachr";
 
 import { FullScreenPokemon } from "../FullScreenPokemon";
 import { BlindTrainersMod } from "./mods/BlindTrainersMod";
